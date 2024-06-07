@@ -19,11 +19,13 @@ function App() {
     fetchNotes();
   },[])
 
- async function fetchNotes(){
+   async function fetchNotes(){
     const notesArray = await dkeeper_backend.readNotes();
     setNotes(notesArray)
   }
+
   function deleteNote(id) {
+    dkeeper_backend.removeNote(id);
     setNotes(prevNotes => {
       return prevNotes.filter((noteItem, index) => {
         return index !== id;
