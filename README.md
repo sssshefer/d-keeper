@@ -1,4 +1,4 @@
-# <img src="https://github.com/sssshefer/d-keeper/assets/63253440/051bcdeb-1af3-417f-b1fe-e991ba1494e5" width="32"> D-Keeper: A Decentralized Notes on the Internet Computer
+# <img src="https://github.com/sssshefer/d-keeper/assets/63253440/051bcdeb-1af3-417f-b1fe-e991ba1494e5" width="28"> D-Keeper: A Decentralized Notes on the Internet Computer
 
 ## Table of Contents
 - [Introduction](#introduction)
